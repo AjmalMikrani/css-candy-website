@@ -111,7 +111,6 @@ button:hover {
 
 #candy-image:hover {
     transform: scale(1.12);
-    /* transform: scale(1.05); */
     cursor: pointer;
     transition-duration: 0.5s;
 }
